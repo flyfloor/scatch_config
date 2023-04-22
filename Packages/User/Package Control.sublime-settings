@@ -1,0 +1,51 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ayu",
+		"Babel",
+		"Babel Snippets",
+		"Better OCaml",
+		"EJS 2",
+		"Emmet",
+		"ES6-Toolkit",
+		"Git blame",
+		"GitGutter",
+		"GraphQL",
+		"Handlebars",
+		"HTML-CSS-JS Prettify",
+		"Jade",
+		"JavaScript Ultimate",
+		"Jedi - Python autocompletion",
+		"JSHint",
+		"JsPrettier",
+		"JSX",
+		"LESS",
+		"Markdown Extended",
+		"MarkdownEditing",
+		"MarkdownPreview",
+		"Material Theme",
+		"Package Control",
+		"React IDE",
+		"ReactJS",
+		"Semi",
+		"sublime-reason",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-jsxhint",
+		"SummitLinter",
+		"Table Editor",
+		"ThriftSyntax",
+		"TypeScript",
+		"Vuejs Complete Package",
+		"Vuejs Snippets",
+		"Web Inspector"
+	],
+	"repositories":
+	[
+		"https://github.com/reasonml-editor/sublime-reason.git"
+	],
+}
